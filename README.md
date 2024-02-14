@@ -1,22 +1,24 @@
 # Boston Housing Dataset(EDA)
 
--- ObjectObjectives of this project:
+--ObjectObjectives of this project:
 
-1.1: To study effects of various variables on House Price
+## 1.1: To study effects of various variables on House Price
 
-1.2: Indentification and Patten Study of Variables significantly affrcting House Price
+## 1.2: Indentification and Patten Study of Variables significantly affrcting House Price
 
-Direct Proportionality
-Inverse Proportionality
-2: Price Range prediction using regression line
+  - Direct Proportionality
 
-3: Holistic Linear Regression Machine learning Model Development to predict House Prices
+  - Inverse Proportionality
 
-4.1: Understanding housing preferences of "Custumer Segment": People of color ("Assuming" the study is done for a real estate business)
+## 2: Price Range prediction using regression line
 
-4.2: Understanding housing preferences of " customer segment"People from lower Strata of society("Assuming" the study is done for a real estate business
+## 3: Holistic Linear Regression Machine learning Model Development to predict House Prices
 
-4.3: Brief exploratory Study of intervariable Dependencies
+## 4.1: Understanding housing preferences of "Custumer Segment": People of color ("Assuming" the study is done for a real estate business)
+
+## 4.2: Understanding housing preferences of " customer segment"People from lower Strata of society("Assuming" the study is done for a real estate business
+
+## 4.3: Brief exploratory Study of intervariable Dependencies
 
 **Methodology:
 
